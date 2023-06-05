@@ -31,3 +31,14 @@ C:\Users\Janick\Documents\Gibb\_iet-404\Snake\M404_Snake_Spielmann_J\M404_Snake_
 C:\Users\Janick\Documents\Gibb\_iet-404\Snake\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.csproj.CoreCompileInputs.cache
 C:\Users\Janick\Documents\Gibb\_iet-404\Snake\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.exe
 C:\Users\Janick\Documents\Gibb\_iet-404\Snake\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.pdb
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\bin\Debug\M404_Snake_Spielmann_J.exe.config
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\bin\Debug\M404_Snake_Spielmann_J.exe
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\bin\Debug\M404_Snake_Spielmann_J.pdb
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.csproj.AssemblyReference.cache
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.csproj.SuggestedBindingRedirects.cache
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.frmSnake.resources
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.Properties.Resources.resources
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.csproj.GenerateResource.cache
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.exe
+C:\Users\janic\source\repos\M404_Snake_Spielmann_J\M404_Snake_Spielmann_J\obj\Debug\M404_Snake_Spielmann_J.pdb
